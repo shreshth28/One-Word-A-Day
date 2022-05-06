@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ConcentricCircles">
+        <attr name="total_circles" format="integer"/>
+        <attr name="offset" format="integer"/>
+        <attr name="circle_color" format="color"/>
+        <attr name="spacing" format="integer"/>
+        <attr name="stroke_width" format="integer"/>
+
+    </declare-styleable>
+</resources>
